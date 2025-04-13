@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100%;
+  height: 60px;
+  /* position: fixed; */
+}
+.navbar button {
+  margin-right: 1.6em;
+}
+.navbar h1 {
+  font-size: 1.5em;
+  margin-left: 1.6em;
+}
