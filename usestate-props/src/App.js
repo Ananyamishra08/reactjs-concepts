@@ -60,7 +60,7 @@ function App() {
           ))}
         </div>
       <footer className="bg-gray-800 text-white text-center py-4 mt-8 bottom-0 w-full">
-        <p>&copy;Harvard University . All rights reserved.</p>
+        <p>By &copy; Ananya Mishra (Made for learning reactjs concepts). All rights reserved.</p>
       </footer>
     </div>
   );
